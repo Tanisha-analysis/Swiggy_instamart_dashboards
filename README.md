@@ -1,11 +1,8 @@
 Swiggy_Instamart_dashboard
 ---
 
-### 🚀 How to Use This Dashboard
-1. Download `Swiggy_Instamart_Dashboard.pbix`
-2. Open in Power BI Desktop - Free version works
-3. Use left panel filters to slice data by Year/Size/Tier
-4. Hover on visuals for tooltips with exact numbers
+### My Dashboard 
+[Project 2.2_125001.png]
 
 ---
 
