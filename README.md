@@ -2,7 +2,7 @@ Swiggy_Instamart_dashboard
 ---
 
 ### My Dashboard 
-![My Dashboard](Project_2.2_125001.png)
+![My Dashboard](Swiggy_dashboard.png)
 
 ---
 
